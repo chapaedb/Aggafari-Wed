@@ -2608,7 +2608,12 @@ label {
     background-size: cover;
     background-repeat: no-repeat
 }
-
+.customer-image.image-two {
+    background-image: url(../images/);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat
+}
 .customer-image.image-three {
     background-image: url(../images/5d6e9b6e7805467eb831e610_centerpiece-dining-elegant-1682538.jpg);
     background-position: 50% 50%;
